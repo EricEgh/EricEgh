@@ -26,4 +26,4 @@
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="https://geovera.cc">Geovera Learn about Geography </a></li>
 <li><a target="_blank" href="">Working on the first Brawlhalla overlay</a></li>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PepX&" alt="PepX" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EricEgh&" alt="EricEgh" /></p>
