@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I've been coding for 4 years**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
