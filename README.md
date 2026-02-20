@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Improving Syntax**
 
-- 👨‍💻 All of my projects are available at [https://ericegh.site](https://ericegh.vercel.app))
+- 👨‍💻 All of my projects are available at [https://ericegh.site](https://ericegh.vercel.app)
 
 - 📫 How to reach me **eric.egh1@gmail.com**
 
