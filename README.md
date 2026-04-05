@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eric.egh1@gmail.com**
 
-- ⚡ Fun fact **I've been coding for 4 years**
+- ⚡ Fun fact **I've been coding for 5 years**
 
 <p align="left">
 </p>
